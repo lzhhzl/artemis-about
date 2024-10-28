@@ -1,0 +1,6 @@
+[submodule "tools/png_convert_py"]
+	path = tools/png_convert_py
+	url = https://github.com/DaiZhongpeng3/artemis.git
+[submodule "tools/png_convert_cpp"]
+	path = tools/png_convert_cpp
+	url = https://github.com/bGlzdGRlcg/artemis.git
